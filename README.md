@@ -9,3 +9,5 @@ This project is licensed under the PolyForm Noncommercial License.
 You may use, modify, and share this software for non‑commercial purposes.
 Commercial use or resale is not permitted without explicit permission.
 See the LICENSE file for full terms.
+
+Commercial licensing may be available upon request.
